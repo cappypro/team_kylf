@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.company","l":"Case"},{"p":"com.company","l":"Color"},{"p":"com.company","l":"ColorConsole"},{"p":"com.company","l":"Files"},{"p":"com.company","l":"Game"},{"p":"com.company","l":"Main"},{"p":"com.company","l":"Menu"},{"p":"com.company","l":"Player"},{"p":"com.company","l":"Table"}];updateSearchResults();
