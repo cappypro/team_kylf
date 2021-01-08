@@ -1,0 +1,14 @@
+ 1er : LE JOUEUR CHOISIR HAUT BAS GAUCHE DROITE et on enregistre ca saisie // FAIT !
+ Si le joueur choisir gauche le pion est déplacé à gauche d'une case
+ {
+
+ - Récupere l'emplacement du joueur // Validé
+ - Je vérifie que la cases est libre ou qu'il ce casse pas le nez contre les murs
+ - Modifie les coordonnées du joueur
+ - Affichez la nouvelle position du joueur
+ - Le joueur choisir une case à explosé
+ -
+ -
+
+ }
+
